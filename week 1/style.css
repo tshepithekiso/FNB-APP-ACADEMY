@@ -1,0 +1,38 @@
+h1 {
+  color: green;
+  font-family: Helvetica, sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+h3 {
+  font-family: Comic Sans, Comic Sans MS, cursive;
+}
+p {
+  color: coral;
+  font-family: fantasy;
+  font-weight: 800;
+  text-decoration: none;
+}
+ul {
+  list-style-type: square;
+  list-style-image: url("images/pointer-icon.png");
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+#menu-bar a {
+  font-family: Helvetica, sans-serif;
+  text-decoration: none;
+  background-color: aquamarine;
+  padding: 5px;
+}
+#menu-bar a:hover {
+  background-color: aqua;
+  color: #ffffff;
+}
